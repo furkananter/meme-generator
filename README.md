@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![Meme Generator Gif](https://raw.githubusercontent.com/furkananter/Meme-Generator/main/meme-generator/meme-generator-gif.gif)
+![Meme Generator Gif](https://raw.githubusercontent.com/furkananter/Meme-Generator/main/meme-generator-gif.gif)
 
 ## Available Scripts
 
